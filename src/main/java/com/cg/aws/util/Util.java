@@ -11,7 +11,7 @@ public class Util {
     private static Scanner scanner;
 
     static{
-        awsCredentials = new BasicAWSCredentials("AKIAIQEEQNUGLGJRUAKQ", "wPbigsbQs12wjXz0Og/NmHtEGSyCVW+GgwYSRBH2");
+        awsCredentials = new BasicAWSCredentials("************", "*********************");
         scanner = new Scanner(System.in);
     }
 
